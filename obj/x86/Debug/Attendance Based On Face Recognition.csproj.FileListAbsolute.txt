@@ -1,0 +1,36 @@
+E:\Attendance Based On Face Recognition\bin\Debug\MultiFaceRec.exe
+E:\Attendance Based On Face Recognition\bin\Debug\MultiFaceRec.pdb
+E:\Attendance Based On Face Recognition\bin\Debug\Emgu.CV.xml
+E:\Attendance Based On Face Recognition\bin\Debug\Emgu.CV.UI.xml
+E:\Attendance Based On Face Recognition\bin\Debug\Emgu.Util.xml
+E:\Attendance Based On Face Recognition\obj\x86\Debug\Attendance Based On Face Recognition.csprojResolveAssemblyReference.cache
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Add_data.resources
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Search_update.resources
+E:\Attendance Based On Face Recognition\obj\x86\Debug\Attendance Based On Face Recognition.csproj.GenerateResource.Cache
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.exe
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.pdb
+E:\Attendance Based On Face Recognition\bin\Debug\Attendance.mdf
+E:\Attendance Based On Face Recognition\bin\Debug\Attendance_log.ldf
+E:\Attendance Based On Face Recognition\bin\Debug\MultiFaceRec.exe.config
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Searchdate.resources
+E:\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Searchid.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\MultiFaceRec.exe.config
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.exe
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.pdb
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\Attendance Based On Face Recognition.csprojResolveAssemblyReference.cache
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Add_data.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Searchid.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Searchdate.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\MultiFaceRec.Search_update.resources
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\obj\x86\Debug\Attendance Based On Face Recognition.csproj.GenerateResource.Cache
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\Attendance.mdf
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\Attendance_log.ldf
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\MultiFaceRec.exe
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\MultiFaceRec.pdb
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\Emgu.CV.xml
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\Emgu.CV.UI.xml
+H:\Attendance Based On Face Recognition System\Attendance Based On Face Recognition\bin\Debug\Emgu.Util.xml
